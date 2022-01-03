@@ -1256,7 +1256,7 @@ blockquote .fa {
 	padding: 40px 35px 45px;
 	position: relative;
 	z-index: 1;
-	margin-top: 30px;
+	margin-top: 10px;
 }
 .service-col:after, 
 .feature-col:after {
